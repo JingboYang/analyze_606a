@@ -1,0 +1,20 @@
+Venue - Non- directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)	Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Citadel Execution Services	62.09		49.50	50.51		50.50	86.03	247,842.32		20.8986		279,426.08	20.0118	49,940.69	17.9893	800,142.65	46.8294
+G1X Execution Services, LLC	19.00		28.58	27.37		29.24	0.70	199,573.22		46.3264		221,056.62	45.1123	31,462.53	34.9258	9,592.27	40.7328
+Two Sigma Securities, LLC	9.22		12.82	13.01		12.16	2.01	69,570.08		20.9126		76,239.32	20.3248	13,372.00	17.7606	7,927.07	26.1050
+Virtu Americas, LLC	7.07		5.15	5.22		4.35	11.16	39,717.82		21.0890		43,947.57	21.6261	8,291.87	17.5344	144,777.82	39.5742
+Wolverine Securities LLC	2.62		3.95	3.88		3.74	0.09	26,508.87		22.1397		28,304.10	22.4811	5,239.11	18.6734	1,427.02	20.5803
+====
+Venue - Non- directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)	Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Citadel Execution Services	57.32		47.58	46.62		47.10	78.19	1,952,460.98		18.8583		2,085,728.60	18.1413	417,236.54	20.3560	4,179,727.46	21.5651
+G1X Execution Services, LLC	14.43		21.52	20.85		21.92	0.69	1,071,211.31		26.1053		1,159,968.57	24.7945	229,678.74	25.1595	72,955.97	32.1378
+Two Sigma Securities, LLC	11.61		16.15	16.64		16.20	1.89	629,057.88		12.3129		692,095.91	11.5719	142,071.04	12.8675	84,806.71	17.5753
+Virtu Americas, LLC	11.53		7.72	8.02		7.50	18.99	473,088.40		8.6895		498,782.62	8.5887	108,243.42	10.0548	1,398,012.00	9.6512
+Wolverine Securities LLC	5.11		7.05	7.87		7.27	0.24	375,062.44		8.4428		398,220.89	7.7353	83,587.03	9.6851	29,600.46	12.3176
+====
+Venue - Non-directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)	Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Citadel Execution Services	53.40		51.46	56.40		51.27	60.94	8,402.51		54.0876		7,033,571.39	54.0883	9,667,142.55	54.0883	71,199.68	54.0883
+Global Execution Brokers, LP	34.97		38.86	30.16		35.14	38.38	7,683.28		66.8402		3,845,710.58	66.8391	6,488,678.59	66.8390	37,336.53	66.8395
+Wolverine Execution Services, LLC	11.62		9.69	13.44		13.59	0.68	1,545.97		56.4429		1,250,362.22	56.4497	2,499,483.39	56.4497	17,399.86	56.4491
+Morgan Stanley & Co., LLC	0.00		0.00	0.00		0.00	0.00	0.00		0.0000		298.98	64.7143	507.35	64.7130	6.47	64.7000
+====

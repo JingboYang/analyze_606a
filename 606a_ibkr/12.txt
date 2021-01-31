@@ -1,0 +1,33 @@
+Venue - Non-directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)	Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Nasdaq Stock Market (XNAS)	39.46		2.73	7.42		48.78	29.52	-20		-1.5504		-122,289	-25.3369	347,522	26.3507	-19,621	-8.1524
+New York Stock Exchange (XNYS)	23.77		0.00	3.39		27.92	68.56	0		0		-40,748	-21.0880	175,524	17.8669	-25,742	-9.9188
+NYSE Arca (ARCX)	13.34		0.00	4.24		16.36	0.00	0		0		-83,408	-28.4213	20,667	20.9310	0	0
+IBKR ATS (IATS)	5.67		0.00	26.67		0.10	0.00	0		0		0	0.0000	0	0.0000	0	0
+IEX (IEXD)	2.73		0.00	9.76		0.89	0.23	0		0		-5,338	-4.1562	-1,597	-4.5155	-3	0.0000
+Citadel Securities (CDED)	2.31		24.15	8.28		0.65	0.21	8,166		0.0000		17,196	5.7745	9,799	29.6374	0	0.0000
+CBOE EDGX Exchange (EDGX)	1.99		0.00	4.31		1.39	0.94	0		0		-85,392	-22.7894	8,552	22.0378	-89	-17.0110
+UBS ATS (UBSA)	1.86		0.00	8.86		0.00	0.00	0		0		0	0.0000	0	0	0	0
+====
+Venue - Non-directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)	Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Nasdaq Stock Market (XNAS)	39.98		2.70	9.84		51.24	43.68	-121		-3.9834		-1,791,188	-25.4544	3,807,157	19.9952	-54,170	-6.1437
+NYSE Arca (ARCX)	18.19		0.00	6.25		22.64	20.00	0		0		-1,199,302	-25.9401	717,176	19.9348	-31,920	-11.7911
+New York Stock Exchange (XNYS)	14.23		0.00	2.31		17.93	31.18	0		0		-299,626	-24.4427	1,096,659	17.8201	-52,500	-9.9782
+IBKR ATS (IATS)	6.21		0.00	22.87		0.27	0.00	0		0		0	0.0000	0	0.0000	0	0
+IEX (IEXD)	3.26		0.00	10.27		0.79	0.05	0		0		-32,750	-4.8066	-8,595	-5.5009	-8	0.0000
+UBS ATS (UBSA)	2.78		0.00	10.57		0.00	0.00	0		0		0	0.0000	0	0	0	0
+Citadel Securities (CDED)	2.56		30.61	7.64		0.69	0.16	57,339		37.8710		83,016	4.8668	71,035	23.6714	0	0.0000
+CBOE EDGX Exchange (EDGX)	2.42		0.00	5.52		1.35	0.70	0		0		-998,496	-24.7931	101,328	0.0000	-381	0.0000
+CBOE BYX Exchange (BATY)	1.52		0.00	1.56		1.59	0.08	0		0		19,936	3.1111	-3,262	-7.2573	1	2.3028
+====
+Venue - Non-directed Order Flow	Non- Directed Orders (%)		Market Orders (%)	Marketable Limit Orders (%)		Non- Marketable Limit Orders (%)		Other Orders (%)	Net Payment Paid/Received for Market Orders(USD)		Net Payment Paid/ Received for Market Orders(cents per hundred shares)		Net Payment Paid/ Received for Marketable Limit Orders(USD)	Net Payment Paid/ Received for Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/ Received for Non- Marketable Limit Orders(USD)	Net Payment Paid/ Received for Non- Marketable Limit Orders(cents per hundred shares)	Net Payment Paid/Received for Other Orders(USD)	Net Payment Paid/ Received for Other Orders(cents per hundred shares)
+Cboe EDGX Options Exchange (EDGO)	14.78		5.73	10.77		8.26		22.67	2,104		20.3732		1,100,163	77.5918	545,142	20.8230	1,236,965	49.9462
+NYSE Arca Options (ARCO)	12.68		13.91	6.29		13.31		13.17	-1,400		-11.6889		-488,716	-57.0926	509,483	63.4852	800,290	42.6144
+MIAX Emerald Exchange (EMLD)	11.35		5.39	1.70		10.67		13.89	674		14.7539		-97,267	-39.2329	776,106	42.6883	0	29.0346
+Chicago Board Options Exchange (XCBO)	11.19		2.39	11.19		12.96		9.27	-465		-16.8475		1,160,066	140.0660	149,982	4.3436	0	-31.0552
+Nasdaq Options Market (XNDQ)	10.36		3.60	10.00		19.91		0.00	-2,829		-48.6916		-932,223	-40.3533	1,204,965	45.6320	0	0
+CBOE C2	9.51		7.01	4.42		7.30		12.87	-1,845		-17.2323		-588,716	-43.2646	463,396	37.0645	245,336	19.0695
+Exchange (C2OX)	0		0	0		0		0	0		0		0	0	0	0	0	0
+Nasdaq ISE (XISX)	8.36		41.39	3.22		4.66		13.25	-22,939		-33.7314		-111,489	-25.3992	240,450	75.2387	502,192	35.6567
+Nasdaq PHLX (XPHL)	6.64		1.54	2.98		1.40		13.07	-88		-4.0499		579,019	87.0655	-2,139	-0.8361	-4,050	-0.3418
+Cboe BZX Options Exchange (BATS)	5.82		2.60	7.00		10.95		0.00	-3,324		-52.6690		-1,033,173	-53.4848	1,221,731	72.8349	0	
+====
